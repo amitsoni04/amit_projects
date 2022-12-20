@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Sep 2020 11:51:06 at http://ardventures.in/kriti/kriti/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ardventures.in/kriti/kriti/index.php -O1 "D:\KRITI" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:51:08	Error: 	"No data (connection closed)" (-4) after 2 retries at link ardventures.in/robots.txt (from primary/primary)
+11:56:24	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/course-details1.php (from ardventures.in/kriti/kriti/index.php)
+11:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/courses.php (from ardventures.in/kriti/kriti/index.php)
+11:56:26	Error: 	"Not Found" (404) at link ardventures.in/kriti/kriti/term.php (from ardventures.in/kriti/kriti/index.php)
+11:56:35	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/watch.php?class=12&sub=Economics (from ardventures.in/kriti/kriti/demo12.php)
+11:56:45	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/assets/img/testimonials/testimonials-4.jpg (from ardventures.in/kriti/kriti/Pryear.php)
+11:56:49	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/assets/img/course-details-tab-2.png (from ardventures.in/kriti/kriti/course-details2.php)
+11:56:49	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/assets/img/course-details-tab-4.png (from ardventures.in/kriti/kriti/course-details2.php)
+11:56:53	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/assets/img/course-details-tab-5.png (from ardventures.in/kriti/kriti/course-details2.php)
+11:56:53	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/courses.php (from ardventures.in/kriti/kriti/index.php)
+11:57:04	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/assets/img/course-details-tab-2.png (from ardventures.in/kriti/kriti/course-details2.php)
+11:57:04	Warning: 	Retry after error -4 (No data (connection closed)) at link ardventures.in/kriti/kriti/assets/img/course-details-tab-5.png (from ardventures.in/kriti/kriti/course-details2.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 59 seconds : 135 links scanned, 123 files written (11437768 bytes overall) [10985690 bytes received at 30600 bytes/sec], 683364 bytes transferred using HTTP compression in 54 files, ratio 29%, 2.2 requests per connection
+(2 errors, 10 warnings, 0 messages)
